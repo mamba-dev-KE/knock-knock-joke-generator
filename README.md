@@ -1,6 +1,6 @@
 # Program Name
 
-Code challenge to refresh on JavaScript ES6 - A program that generates random knock knock jokes!!
+Code challenge to refresh on JavaScript ES6 - A script that generates random knock knock jokes!!
 
 ## Technologies
 The script was created using:

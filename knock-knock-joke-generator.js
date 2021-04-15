@@ -3,6 +3,7 @@ let number = 0;
 const jokeGenerator = number => {
     number = Math.floor(Math.random() * 10);   
     switch (number) {
+      //source: https://frugalfun4boys.com/knock-knock-jokes-for-kids/ 
       case 0:
         return 'Knock, knock.  Who’s there?  Goliath.  Goliath who?  Goliath down, you look-eth tired';
       case 1:
